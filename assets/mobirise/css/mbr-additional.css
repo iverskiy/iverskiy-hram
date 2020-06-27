@@ -1438,6 +1438,28 @@ section.lazy-placeholder:after {
     margin-left: 0 !important;
   }
 }
+.cid-s39MnQuPck {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #55b4d4, #ffffff);
+}
+.cid-s39MnQuPck .image-block {
+  margin: auto;
+}
+.cid-s39MnQuPck figcaption {
+  position: relative;
+}
+.cid-s39MnQuPck figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s39MnQuPck .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s36L1sP6Xq .navbar {
   padding: .5rem 0;
   background: #3249f4;
