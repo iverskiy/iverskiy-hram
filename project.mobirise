@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "iverskiy-hram",
-    "currentPage": "deregulation.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,8 +66,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Главная",
+        "meta_descr": "Главная страница сайта.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
