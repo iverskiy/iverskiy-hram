@@ -2088,7 +2088,7 @@
             }
           },
           "_name": "map1",
-          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Карта\" name=\"googleMap\" place-id=\"ChIJz3wBSzoB9EAR-wEephhsvWs\" value=\"РФ, Краснодарский край, Туапсинский район, с. Шепси, ул. Восточная 2.\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
+          "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Карта\" name=\"googleMap\" place-id=\"iframe\" value=\"<iframe src=&quot;https://yandex.ru/map-widget/v1/?um=constructor%3Abc9a4086d9a252e81eac44d5b5227afa7fce8ab32751d6b05945326f18cc6eb2&amp;amp;source=constructor&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot;></iframe>\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "s36NUAxjpG",
           "_anchor": "map1-b",
           "_protectedParams": [],
